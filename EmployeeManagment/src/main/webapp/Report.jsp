@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html> <head> <meta charset="ISO-8859-1"> <title>Employee Details</title> </head> <body>     NAME: Christiano Ronaldo<br>     DOB: 25-04-1994<br>     JOB ROLE: HR<br>     MONTHLY SALARY: 60000<br>     YEARLY BONUS: 30000<br> </body> </html>
